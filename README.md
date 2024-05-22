@@ -17,3 +17,12 @@ STP_Crime_Database: [STP_Crime_Database (GitHub)](https://github.com/gcabdu/STP_
 UST-Book-App is a library management system that simplifies the process of book lending in a university library. Developed with Python and SQLite, the app has different login interfaces for students and employees, each with unique features. The application for students enables them to make new orders, while the employee interface handles ongoing orders and support tickets. This project taught me a lot about database utilization and user authentication, emphasizing the importance of security and user-friendly interfaces.
 
 UST-Book-App: [UST-Book-App (GitHub)](https://github.com/gcabdu/UST-Book-App).
+
+### Others
+
+(https://github.com/gcabdu/HTML-Forms-w-Canvas/blob/main/README.md).
+(https://github.com/gcabdu/UST-Book-App/blob/main/README.md).
+
+
+
+
